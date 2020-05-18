@@ -1,0 +1,21 @@
+{
+  "editor.fontSize": 17,
+  "window.zoomLevel": 0,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onFocusChange",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.fontFamily": "Monaco",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "emmet.includeLanguages": {"javascript":"javascriptreact"},
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.explorerKind": "external",
+  "workbench.statusBar.visible": true,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "workbench.sideBar.location": "left",
+  "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true
+  },
+  "workbench.colorTheme": "Dracula",
+  "editor.parameterHints": false
+}
